@@ -1,0 +1,9 @@
+.dynamicFuns_box {
+  width: 50vw;
+  height: 10vw;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #a9a4a4;
+}

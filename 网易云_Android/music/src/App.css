@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+}
+input:focus {
+  outline: none;
+}
+body {
+  background-color: #f3f3f3;
+  height: 100%;
+}
+html {
+  height: 100%;
+}
+.app {
+  width: 100vw;
+  margin: 0 auto;
+  margin-top: 5px;
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+@font-face {
+  font-family: "iconfont";
+  src: url("assets/iconfont/iconfont.woff2?t=1658674815317") format("woff2"),
+    url("assets/iconfont/iconfont.woff?t=1658674815317") format("woff"),
+    url("assets/iconfont/iconfont.ttf?t=1658674815317") format("truetype");
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

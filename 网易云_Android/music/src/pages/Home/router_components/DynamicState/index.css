@@ -1,0 +1,39 @@
+.dynamicStateBox {
+  position: absolute;
+  top: 63vw;
+  min-height: 120vw;
+  width: 84vw;
+  background-color: #fff;
+  padding: 3vw;
+  border-radius: 10px;
+}
+.dynamicStateBox p {
+  margin-top: 10px;
+  text-align: center;
+}
+.dynamicStateBox_inner {
+  display: flex;
+  border-bottom: 1px solid #cbc5c5;
+  margin-top: 10px;
+}
+.cover_img {
+  width: 30px;
+  border-radius: 5px;
+}
+.dynamicStateBox_inner_right {
+  margin-left: 5px;
+}
+.content_box {
+  margin-top: 10vw;
+}
+.imgCover_box {
+  display: flex;
+  margin-top: 10vw;
+  padding: 3vw;
+  background-color: #f3f3f3;
+  width: 65vw;
+  border-radius: 6px;
+}
+.imgCover_box_right {
+  margin-left: 2vw;
+}

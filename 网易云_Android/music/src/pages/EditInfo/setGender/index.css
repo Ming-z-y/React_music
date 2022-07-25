@@ -1,0 +1,36 @@
+.setGender_box {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-color: rgba(108, 108, 109, 0.5);
+}
+.setGender_box_inner {
+  width: 80vw;
+  margin: 0 auto;
+}
+.setGender_box_option {
+  width: 100%;
+  height: 20vw;
+  background: #ffffff;
+  border-radius: 8px;
+  margin-top: 60vw;
+}
+.setGender_box_cancel {
+  display: block;
+  width: 6vw;
+  height: 6vw;
+  background-color: #989898;
+  font-size: 18px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 6vw;
+  color: #fcfcfc;
+  margin: 0 auto;
+  margin-top: 5vw;
+}
+.setGender_box_option a {
+  display: block;
+  background-color: #fff;
+  padding: 3vw;
+  border-radius: 8px;
+}

@@ -1,0 +1,75 @@
+.userBox {
+  width: 90vw;
+  height: 50vw;
+  background-color: #ffffff;
+  left: 5vw;
+  border-radius: 10px;
+  margin-bottom: 10vw;
+  position: absolute;
+  top: 80vw;
+  opacity: 0.97;
+}
+.userImg {
+  width: 20vw;
+  height: 20vw;
+  background-color: rgb(64, 125, 174);
+  border-radius: 50%;
+  position: absolute;
+  left: 35vw;
+  top: -10vw;
+}
+.nickName {
+  font-size: 15px;
+  position: absolute;
+  top: 11vw;
+  left: 35vw;
+}
+.userBox ul {
+  position: absolute;
+  top: 18vw;
+  left: 30vw;
+}
+.userBox li:nth-child(2) {
+  margin-left: 2vw;
+  margin-right: 2vw;
+}
+.userBox ul li {
+  float: left;
+}
+.addressADay {
+  position: absolute;
+  top: 26vw;
+  left: 28vw;
+}
+.circle {
+  float: left;
+  border: 1px solid #d8d0d0;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 6vw;
+}
+.addressBox {
+  width: 15vw;
+  margin-right: 2vw;
+}
+.daysBox {
+  width: 18vw;
+}
+.editArrow {
+  position: absolute;
+  top: 35vw;
+  left: 32vw;
+}
+.editInfo {
+  width: 20vw;
+  height: 6vw;
+  line-height: 6vw;
+  border-radius: 20px;
+  margin-right: 5px;
+}
+.arrow {
+  height: 6vw;
+  width: 6vw;
+  border-radius: 50%;
+  color: #cec9c9;
+}

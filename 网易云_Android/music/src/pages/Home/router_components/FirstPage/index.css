@@ -1,0 +1,56 @@
+.firstPageBox {
+  position: absolute;
+  top: 63vw;
+  min-height: 120vw;
+}
+/* 基本信息 */
+.basicInfo {
+  width: 84vw;
+  height: 24vw;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 3vw;
+}
+.basicInfoTop {
+  display: flex;
+  justify-content: space-between;
+}
+.basicInfo p {
+  margin-top: 4vw;
+}
+/* 音乐品味 */
+.musicTaste {
+  width: 84vw;
+  /* height: 24vw; */
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 3vw;
+  margin-top: 15px;
+}
+.musicTaste_box {
+  margin-top: 5px;
+  display: flex;
+  /* justify-content: space-between; */
+  border-radius: 8px;
+  height: 14vw;
+  align-items: center;
+}
+.musicTaste_box_img {
+  width: 10vw;
+  height: 10vw;
+  background-color: bisque;
+  border-radius: 8px;
+}
+.musicTaste_box_right {
+  width: 68vw;
+  margin-left: 5px;
+}
+/* 愿望清单 */
+.aspirationList {
+  width: 84vw;
+  /* height: 24vw; */
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 3vw;
+  margin-top: 15px;
+}

@@ -1,0 +1,22 @@
+.coverBox {
+  background-color: rgb(166, 64, 64);
+  width: 100%;
+  height: 85vw;
+  position: relative;
+}
+.coverFont {
+  color: aliceblue;
+  font-size: 15px;
+  position: absolute;
+  left: 30vw;
+  bottom: 35vw;
+}
+.home_cover_back {
+  font-size: 15px;
+  margin-top: 3vw;
+}
+.backIcon {
+  color: white;
+  margin-top: 20px;
+  font-size: 30px !important;
+}

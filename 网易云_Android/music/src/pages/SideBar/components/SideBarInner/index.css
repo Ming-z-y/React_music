@@ -1,0 +1,7 @@
+.SideBarPage_inner {
+  display: flex;
+  height: 11vw;
+  justify-content: space-between;
+  line-height: 11vw;
+  letter-spacing: 1px;
+}

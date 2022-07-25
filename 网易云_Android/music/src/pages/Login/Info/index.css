@@ -1,0 +1,16 @@
+.info_box {
+  position: absolute;
+  height: 10vw;
+  width: 50vw;
+  /* background-color: #fd0b0a; */
+  background-color: aliceblue;
+  letter-spacing: 5px;
+  line-height: 10vw;
+  text-align: center;
+  border-radius: 10px;
+  top: 30vw;
+  left: 25vw;
+  transition: 2s ease all;
+  /* color: aliceblue; */
+  color: black;
+}

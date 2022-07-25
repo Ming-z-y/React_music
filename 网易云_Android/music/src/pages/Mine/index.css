@@ -1,0 +1,16 @@
+.MinePage {
+  background-color: #f3f3f3;
+  padding-left: 5vw;
+  font-size: 5vw;
+}
+.info_com {
+  background-color: #fd372a !important;
+  color: #f3f3f3 !important;
+}
+.cover_mine {
+  height: 200vw;
+  width: 95vw;
+  /* background-color: antiquewhite; */
+  /* background-color: #f3f3f3; */
+  transition: 2s all ease;
+}

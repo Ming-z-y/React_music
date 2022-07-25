@@ -1,0 +1,53 @@
+/* 顶部 */
+.editTop {
+  background-color: #fefefe;
+  display: flex;
+  height: 12vw;
+  padding-left: 3vw;
+}
+.editTop h2 {
+  margin-left: 7vw;
+  font-size: 18px;
+  line-height: 12vw;
+}
+.editTop a {
+  line-height: 12vw;
+}
+.backicon {
+  font-size: 20px !important;
+}
+
+/* 头像--二维码 */
+
+.editBox_basicInfo {
+  width: 94vw;
+  /* height: 30vw; */
+  margin-top: 10px;
+  background-color: #fefefe;
+  padding-left: 3vw;
+  padding-right: 3vw;
+}
+.editBox_basicInfo a {
+  display: flex;
+  height: 12vw;
+  line-height: 12vw;
+  justify-content: space-between;
+  border-bottom: 1px solid #e6e6e6;
+  align-items: center;
+}
+.editBox_basicInfo a div:nth-child(2) {
+  color: #c3c3c3;
+}
+.upload_img_box {
+  display: flex;
+  height: 12vw;
+  line-height: 12vw;
+  justify-content: space-between;
+  border-bottom: 1px solid #e6e6e6;
+  align-items: center;
+}
+.upFileIpt {
+  position: absolute;
+  right: 0;
+  opacity: 0;
+}

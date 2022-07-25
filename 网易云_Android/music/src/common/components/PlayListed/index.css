@@ -1,0 +1,22 @@
+.playListed_card {
+  width: 84vw;
+  margin: 0 auto;
+  background-color: #fefefe;
+  padding: 3vw;
+  border-radius: 10px;
+  margin-top: 15px;
+}
+.playlist_container {
+  display: flex;
+  margin-top: 5px;
+}
+.coverImgUrl {
+  border-radius: 8px;
+}
+.playlist_info {
+  margin-left: 6px;
+}
+.playlist_info_bottom {
+  color: #abaaaa;
+  margin-top: 3px;
+}
